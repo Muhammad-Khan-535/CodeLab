@@ -5,10 +5,10 @@ Welcome to my repository for the CodeLabs Web Development Remote Internship. Thi
 This internship was a hands-on learning experience focused on building core web development skills. Each day included a learning module followed by a practical task to apply the concepts learned. <br> <br>
 
 🧠 What I Learned <br> <br>
-HTML5 & Semantic Structure
-CSS3 & Responsive Design
-Bootstrap & Tailwind CSS
-JavaScript (ES6+)
-DOM Manipulation
-Git & GitHub Workflow
+HTML5 & Semantic Structure<br>
+CSS3 & Responsive Design<br>
+Bootstrap & Tailwind CSS<br>
+JavaScript (ES6+)<br>
+DOM Manipulation<br>
+Git & GitHub Workflow<br>
 Projects Deployment
